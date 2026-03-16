@@ -1,0 +1,42 @@
+{
+  "book": "Yohanes",
+  "abbreviation": "Yoh",
+  "testament": "nt",
+  "chapters": {
+    "1": [
+      {"v":1,"t":"Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah."},
+      {"v":2,"t":"Ia pada mulanya bersama-sama dengan Allah."},
+      {"v":3,"t":"Segala sesuatu dijadikan oleh Dia dan tanpa Dia tidak ada suatupun yang telah jadi dari segala yang telah dijadikan."},
+      {"v":4,"t":"Dalam Dia ada hidup dan hidup itu adalah terang manusia."},
+      {"v":12,"t":"Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya;"},
+      {"v":14,"t":"Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran."}
+    ],
+    "3": [
+      {"v":1,"t":"Adalah seorang Farisi yang bernama Nikodemus, seorang pemimpin agama Yahudi."},
+      {"v":2,"t":"Ia datang pada waktu malam kepada Yesus dan berkata: \"Rabi, kami tahu, bahwa Engkau datang sebagai guru yang diutus Allah; sebab tidak ada seorangpun yang dapat mengadakan tanda-tanda yang Engkau adakan itu, jika Allah tidak menyertainya.\""},
+      {"v":3,"t":"\"Aku berkata kepadamu, sesungguhnya jika seseorang tidak dilahirkan kembali, ia tidak dapat melihat Kerajaan Allah.\"","red":true},
+      {"v":4,"t":"Kata Nikodemus kepada-Nya: \"Bagaimanakah mungkin seorang dilahirkan, kalau ia sudah tua? Dapatkah ia masuk kembali ke dalam rahim ibunya dan dilahirkan lagi?\""},
+      {"v":5,"t":"\"Aku berkata kepadamu, sesungguhnya jika seseorang tidak dilahirkan dari air dan Roh, ia tidak dapat masuk ke dalam Kerajaan Allah.\"","red":true},
+      {"v":6,"t":"\"Apa yang dilahirkan dari daging, adalah daging, dan apa yang dilahirkan dari Roh, adalah roh.\"","red":true},
+      {"v":7,"t":"\"Janganlah engkau heran, karena Aku berkata kepadamu: Kamu harus dilahirkan kembali.\"","red":true},
+      {"v":8,"t":"\"Angin bertiup ke mana ia mau, dan engkau mendengar bunyinya, tetapi engkau tidak tahu dari mana ia datang atau ke mana ia pergi. Demikianlah halnya dengan tiap-tiap orang yang lahir dari Roh.\"","red":true},
+      {"v":16,"t":"Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal."},
+      {"v":17,"t":"Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk menyelamatkannya oleh Dia."},
+      {"v":18,"t":"Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; barangsiapa tidak percaya, ia telah berada di bawah hukuman, sebab ia tidak percaya dalam nama Anak Tunggal Allah."},
+      {"v":36,"t":"Barangsiapa percaya kepada Anak, ia beroleh hidup yang kekal, tetapi barangsiapa tidak taat kepada Anak, ia tidak akan melihat hidup, melainkan murka Allah tetap ada di atasnya."}
+    ],
+    "10": [
+      {"v":27,"t":"\"Domba-domba-Ku mendengarkan suara-Ku dan Aku mengenal mereka dan mereka mengikut Aku,\"","red":true},
+      {"v":28,"t":"\"dan Aku memberikan hidup yang kekal kepada mereka dan mereka pasti tidak akan binasa sampai selama-lamanya dan seorangpun tidak akan merebut mereka dari tangan-Ku.\"","red":true},
+      {"v":29,"t":"\"Bapa-Ku, yang memberikan mereka kepada-Ku, lebih besar dari pada siapapun, dan seorangpun tidak dapat merebut mereka dari tangan Bapa.\"","red":true},
+      {"v":30,"t":"\"Aku dan Bapa adalah satu.\"","red":true}
+    ],
+    "14": [
+      {"v":1,"t":"\"Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku.\"","red":true},
+      {"v":2,"t":"\"Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu.\"","red":true},
+      {"v":6,"t":"\"Akulah jalan dan kebenaran dan hidup. Tidak ada seorangpun yang datang kepada Bapa, kalau tidak melalui Aku.\"","red":true},
+      {"v":16,"t":"\"Aku akan minta kepada Bapa, dan Ia akan memberikan kepadamu seorang Penolong yang lain, supaya Ia menyertai kamu selama-lamanya,\"","red":true},
+      {"v":26,"t":"\"tetapi Penghibur, yaitu Roh Kudus, yang akan diutus oleh Bapa dalam nama-Ku, Dialah yang akan mengajarkan segala sesuatu kepadamu dan akan mengingatkan kamu akan semua yang telah Kukatakan kepadamu.\"","red":true}
+    ]
+  }
+}

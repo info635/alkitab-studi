@@ -1,0 +1,57 @@
+{
+  "book": "Matius",
+  "abbreviation": "Mat",
+  "testament": "nt",
+  "chapters": {
+    "5": [
+      {"v":1,"t":"Ketika Yesus melihat orang banyak itu, naiklah Ia ke atas bukit dan setelah Ia duduk, datanglah murid-murid-Nya kepada-Nya."},
+      {"v":2,"t":"Maka Yesus pun mulai berbicara dan mengajar mereka, kata-Nya:"},
+      {"v":3,"t":"\"Berbahagialah orang yang miskin di hadapan Allah, karena merekalah yang empunya Kerajaan Sorga.\"","red":true},
+      {"v":4,"t":"\"Berbahagialah orang yang berdukacita, karena mereka akan dihibur.\"","red":true},
+      {"v":5,"t":"\"Berbahagialah orang yang lemah lembut, karena mereka akan memiliki bumi.\"","red":true},
+      {"v":6,"t":"\"Berbahagialah orang yang lapar dan haus akan kebenaran, karena mereka akan dipuaskan.\"","red":true},
+      {"v":7,"t":"\"Berbahagialah orang yang murah hatinya, karena mereka akan beroleh kemurahan.\"","red":true},
+      {"v":8,"t":"\"Berbahagialah orang yang suci hatinya, karena mereka akan melihat Allah.\"","red":true},
+      {"v":9,"t":"\"Berbahagialah orang yang membawa damai, karena mereka akan disebut anak-anak Allah.\"","red":true},
+      {"v":10,"t":"\"Berbahagialah orang yang dianiaya oleh sebab kebenaran, karena merekalah yang empunya Kerajaan Sorga.\"","red":true},
+      {"v":11,"t":"\"Berbahagialah kamu, jika karena Aku kamu dicela dan dianiaya dan kepadamu difitnahkan segala yang jahat.\"","red":true},
+      {"v":12,"t":"\"Bersukacita dan bergembiralah, karena upahmu besar di sorga, sebab demikian juga telah dianiaya nabi-nabi yang sebelum kamu.\"","red":true},
+      {"v":13,"t":"\"Kamu adalah garam dunia. Jika garam itu menjadi tawar, dengan apakah ia diasinkan? Tidak ada lagi gunanya selain dibuang dan diinjak orang.\"","red":true},
+      {"v":14,"t":"\"Kamu adalah terang dunia. Kota yang terletak di atas gunung tidak mungkin tersembunyi.\"","red":true},
+      {"v":15,"t":"\"Lagipula orang tidak menyalakan pelita lalu meletakkannya di bawah gantang, melainkan di atas kaki dian sehingga menerangi semua orang di dalam rumah itu.\"","red":true},
+      {"v":16,"t":"\"Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat perbuatanmu yang baik dan memuliakan Bapamu yang di sorga.\"","red":true},
+      {"v":17,"t":"\"Janganlah kamu menyangka, bahwa Aku datang untuk meniadakan hukum Taurat atau kitab para nabi. Aku datang bukan untuk meniadakannya, melainkan untuk menggenapinya.\"","red":true},
+      {"v":18,"t":"\"Karena Aku berkata kepadamu: Sesungguhnya selama belum lenyap langit dan bumi ini, satu iota atau satu titikpun tidak akan ditiadakan dari hukum Taurat, sebelum semuanya terjadi.\"","red":true},
+      {"v":19,"t":"\"Karena itu siapa yang meniadakan salah satu perintah hukum Taurat sekalipun yang paling kecil, dan mengajarkannya demikian kepada orang lain, ia akan menduduki tempat yang paling rendah di dalam Kerajaan Sorga; tetapi siapa yang melakukan dan mengajarkan segala perintah-perintah hukum Taurat, ia akan menduduki tempat yang tinggi di dalam Kerajaan Sorga.\"","red":true},
+      {"v":20,"t":"\"Maka Aku berkata kepadamu: Jika hidup keagamaanmu tidak lebih benar dari pada hidup keagamaan ahli-ahli Taurat dan orang-orang Farisi, sesungguhnya kamu tidak akan masuk ke dalam Kerajaan Sorga.\"","red":true}
+    ],
+    "6": [
+      {"v":1,"t":"\"Ingatlah, jangan kamu melakukan kewajiban agamamu di hadapan orang supaya dilihat mereka, karena jika demikian, kamu tidak beroleh upah dari Bapamu yang di sorga.\"","red":true},
+      {"v":2,"t":"\"Jadi apabila engkau memberi sedekah, janganlah engkau mencanangkan hal itu, seperti yang dilakukan orang munafik di rumah-rumah ibadat dan di lorong-lorong, supaya mereka dipuji orang. Aku berkata kepadamu: Sesungguhnya mereka sudah mendapat upahnya.\"","red":true},
+      {"v":3,"t":"\"Tetapi jika engkau memberi sedekah, janganlah diketahui tangan kirimu apa yang diperbuat tangan kananmu.\"","red":true},
+      {"v":4,"t":"\"Hendaklah sedekahmu itu diberikan dengan tersembunyi, maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu.\"","red":true},
+      {"v":5,"t":"\"Dan apabila kamu berdoa, janganlah berdoa seperti orang munafik. Mereka suka mengucapkan doanya dengan berdiri dalam rumah-rumah ibadat dan pada tikungan-tikungan jalan raya, supaya mereka dilihat orang.\"","red":true},
+      {"v":6,"t":"\"Tetapi jika engkau berdoa, masuklah ke dalam kamarmu, tutuplah pintu dan berdoalah kepada Bapamu yang ada di tempat tersembunyi. Maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu.\"","red":true},
+      {"v":9,"t":"\"Karena itu berdoalah demikian: Bapa kami yang di sorga, dikuduskanlah nama-Mu,\"","red":true},
+      {"v":10,"t":"\"datanglah Kerajaan-Mu, jadilah kehendak-Mu di bumi seperti di sorga.\"","red":true},
+      {"v":11,"t":"\"Berikanlah kami pada hari ini makanan kami yang secukupnya\"","red":true},
+      {"v":12,"t":"\"dan ampunilah kami akan kesalahan kami, seperti kami juga mengampuni orang yang bersalah kepada kami;\"","red":true},
+      {"v":13,"t":"\"dan janganlah membawa kami ke dalam pencobaan, tetapi lepaskanlah kami dari pada yang jahat. [Karena Engkaulah yang empunya Kerajaan dan kuasa dan kemuliaan sampai selama-lamanya. Amin.]\"","red":true},
+      {"v":19,"t":"\"Janganlah kamu mengumpulkan harta di bumi; di bumi ngengat dan karat merusakkannya dan pencuri membongkar serta mencurinya.\"","red":true},
+      {"v":20,"t":"\"Tetapi kumpulkanlah bagimu harta di sorga; di sorga ngengat dan karat tidak merusakkannya dan pencuri tidak membongkar serta mencurinya.\"","red":true},
+      {"v":21,"t":"\"Karena di mana hartamu berada, di situ juga hatimu berada.\"","red":true},
+      {"v":33,"t":"\"Tetapi carilah dahulu Kerajaan Allah dan kebenarannya, maka semuanya itu akan ditambahkan kepadamu.\"","red":true},
+      {"v":34,"t":"\"Sebab itu janganlah kamu kuatir akan hari besok, karena hari besok mempunyai kesusahannya sendiri. Kesusahan sehari cukuplah untuk sehari.\"","red":true}
+    ],
+    "11": [
+      {"v":28,"t":"\"Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.\"","red":true},
+      {"v":29,"t":"\"Pikullah kuk yang Kupasang dan belajarlah pada-Ku, karena Aku lemah lembut dan rendah hati dan jiwamu akan mendapat ketenangan.\"","red":true},
+      {"v":30,"t":"\"Sebab kuk yang Kupasang itu enak dan beban-Kupun ringan.\"","red":true}
+    ],
+    "28": [
+      {"v":18,"t":"Yesus mendekati mereka dan berkata: \"Kepada-Ku telah diberikan segala kuasa di sorga dan di bumi.\"","red":true},
+      {"v":19,"t":"\"Karena itu pergilah, jadikanlah semua bangsa murid-Ku dan baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus,\"","red":true},
+      {"v":20,"t":"\"dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.\"","red":true}
+    ]
+  }
+}
