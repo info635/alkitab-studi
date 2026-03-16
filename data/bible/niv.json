@@ -1,0 +1,166 @@
+{
+  "translation": "NIV",
+  "language": "English",
+  "books": {
+    "Matius": {
+      "5": [
+        {"v":1,"t":"Now when Jesus saw the crowds, he went up on a mountainside and sat down. His disciples came to him,"},
+        {"v":2,"t":"and he began to teach them. He said:"},
+        {"v":3,"t":"\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\"","red":true},
+        {"v":4,"t":"\"Blessed are those who mourn, for they will be comforted.\"","red":true},
+        {"v":5,"t":"\"Blessed are the meek, for they will inherit the earth.\"","red":true},
+        {"v":6,"t":"\"Blessed are those who hunger and thirst for righteousness, for they will be filled.\"","red":true},
+        {"v":7,"t":"\"Blessed are the merciful, for they will be shown mercy.\"","red":true},
+        {"v":8,"t":"\"Blessed are the pure in heart, for they will see God.\"","red":true},
+        {"v":9,"t":"\"Blessed are the peacemakers, for they will be called children of God.\"","red":true},
+        {"v":10,"t":"\"Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.\"","red":true},
+        {"v":11,"t":"\"Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me.\"","red":true},
+        {"v":12,"t":"\"Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.\"","red":true},
+        {"v":13,"t":"\"You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot.\"","red":true},
+        {"v":14,"t":"\"You are the light of the world. A town built on a hill cannot be hidden.\"","red":true},
+        {"v":15,"t":"\"Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house.\"","red":true},
+        {"v":16,"t":"\"In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.\"","red":true},
+        {"v":17,"t":"\"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.\"","red":true},
+        {"v":18,"t":"\"For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished.\"","red":true},
+        {"v":19,"t":"\"Therefore anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.\"","red":true},
+        {"v":20,"t":"\"For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.\"","red":true}
+      ],
+      "6": [
+        {"v":1,"t":"\"Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.\"","red":true},
+        {"v":9,"t":"\"This, then, is how you should pray: 'Our Father in heaven, hallowed be your name,'\"","red":true},
+        {"v":10,"t":"\"'your kingdom come, your will be done, on earth as it is in heaven.'\"","red":true},
+        {"v":11,"t":"\"'Give us today our daily bread.'\"","red":true},
+        {"v":12,"t":"\"'And forgive us our debts, as we also have forgiven our debtors.'\"","red":true},
+        {"v":13,"t":"\"'And lead us not into temptation, but deliver us from the evil one.'\"","red":true},
+        {"v":33,"t":"\"But seek first his kingdom and his righteousness, and all these things will be given to you as well.\"","red":true}
+      ],
+      "11": [
+        {"v":28,"t":"\"Come to me, all you who are weary and burdened, and I will give you rest.\"","red":true},
+        {"v":29,"t":"\"Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.\"","red":true},
+        {"v":30,"t":"\"For my yoke is easy and my burden is light.\"","red":true}
+      ],
+      "28": [
+        {"v":18,"t":"Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me.\"","red":true},
+        {"v":19,"t":"\"Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,\"","red":true},
+        {"v":20,"t":"\"and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.\"","red":true}
+      ]
+    },
+    "Yohanes": {
+      "1": [
+        {"v":1,"t":"In the beginning was the Word, and the Word was with God, and the Word was God."},
+        {"v":2,"t":"He was with God in the beginning."},
+        {"v":3,"t":"Through him all things were made; without him nothing was made that has been made."},
+        {"v":4,"t":"In him was life, and that life was the light of all mankind."},
+        {"v":12,"t":"Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—"},
+        {"v":14,"t":"The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth."}
+      ],
+      "3": [
+        {"v":1,"t":"Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council."},
+        {"v":2,"t":"He came to Jesus at night and said, \"Rabbi, we know that you are a teacher who has come from God. For no one could perform the signs you are doing if God were not with him.\""},
+        {"v":3,"t":"Jesus replied, \"Very truly I tell you, no one can see the kingdom of God unless they are born again.\"","red":true},
+        {"v":4,"t":"\"How can someone be born when they are old?\" Nicodemus asked. \"Surely they cannot enter a second time into their mother's womb to be born!\""},
+        {"v":5,"t":"Jesus answered, \"Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit.\"","red":true},
+        {"v":6,"t":"\"Flesh gives birth to flesh, but the Spirit gives birth to spirit.\"","red":true},
+        {"v":7,"t":"\"You should not be surprised at my saying, 'You must be born again.'\"","red":true},
+        {"v":8,"t":"\"The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.\"","red":true},
+        {"v":16,"t":"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."},
+        {"v":17,"t":"For God did not send his Son into the world to condemn the world, but to save the world through him."},
+        {"v":18,"t":"Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God's one and only Son."},
+        {"v":36,"t":"Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on them."}
+      ],
+      "10": [
+        {"v":27,"t":"\"My sheep listen to my voice; I know them, and they follow me.\"","red":true},
+        {"v":28,"t":"\"I give them eternal life, and they shall never perish; no one will snatch them out of my hand.\"","red":true},
+        {"v":29,"t":"\"My Father, who has given them to me, is greater than all; no one can snatch them out of my Father's hand.\"","red":true},
+        {"v":30,"t":"\"I and the Father are one.\"","red":true}
+      ],
+      "14": [
+        {"v":1,"t":"\"Do not let your hearts be troubled. You believe in God; believe also in me.\"","red":true},
+        {"v":2,"t":"\"My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?\"","red":true},
+        {"v":6,"t":"Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through me.\"","red":true},
+        {"v":16,"t":"\"And I will ask the Father, and he will give you another advocate to help you and be with you forever—\"","red":true},
+        {"v":26,"t":"\"But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.\"","red":true}
+      ]
+    },
+    "Roma": {
+      "1": [
+        {"v":16,"t":"For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile."},
+        {"v":17,"t":"For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\""}
+      ],
+      "3": [
+        {"v":23,"t":"for all have sinned and fall short of the glory of God,"},
+        {"v":24,"t":"and all are justified freely by his grace through the redemption that came by Christ Jesus."},
+        {"v":28,"t":"For we maintain that a person is justified by faith apart from the works of the law."}
+      ],
+      "5": [
+        {"v":1,"t":"Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ,"},
+        {"v":8,"t":"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."}
+      ],
+      "8": [
+        {"v":1,"t":"Therefore, there is now no condemnation for those who are in Christ Jesus,"},
+        {"v":2,"t":"because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death."},
+        {"v":28,"t":"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."},
+        {"v":29,"t":"For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters."},
+        {"v":30,"t":"And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified."},
+        {"v":38,"t":"For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,"},
+        {"v":39,"t":"neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."}
+      ],
+      "9": [
+        {"v":15,"t":"For he says to Moses, \"I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.\""},
+        {"v":16,"t":"It does not, therefore, depend on human desire or effort, but on God's mercy."}
+      ],
+      "10": [
+        {"v":9,"t":"If you declare with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be saved."},
+        {"v":17,"t":"Consequently, faith comes from hearing the message, and the message is heard through the word about Christ."}
+      ]
+    },
+    "Efesus": {
+      "1": [
+        {"v":3,"t":"Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ."},
+        {"v":4,"t":"For he chose us in him before the creation of the world to be holy and blameless in his sight."},
+        {"v":5,"t":"In love he predestined us for adoption to sonship through Jesus Christ, in accordance with his pleasure and will—"},
+        {"v":7,"t":"In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace"}
+      ],
+      "2": [
+        {"v":1,"t":"As for you, you were dead in your transgressions and sins,"},
+        {"v":4,"t":"But because of his great love for us, God, who is rich in mercy,"},
+        {"v":5,"t":"made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."},
+        {"v":8,"t":"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—"},
+        {"v":9,"t":"not by works, so that no one can boast."},
+        {"v":10,"t":"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."}
+      ],
+      "6": [
+        {"v":10,"t":"Finally, be strong in the Lord and in his mighty power."},
+        {"v":11,"t":"Put on the full armor of God, so that you can take your stand against the devil's schemes."},
+        {"v":12,"t":"For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms."}
+      ]
+    },
+    "Filipi": {
+      "2": [
+        {"v":5,"t":"In your relationships with one another, have the same mindset as Christ Jesus:"},
+        {"v":6,"t":"Who, being in very nature God, did not consider equality with God something to be used to his own advantage;"},
+        {"v":7,"t":"rather, he made himself nothing by taking the very nature of a servant, being made in human likeness."},
+        {"v":8,"t":"And being found in appearance as a man, he humbled himself by becoming obedient to death— even death on a cross!"},
+        {"v":13,"t":"for it is God who works in you to will and to act in order to fulfill his good purpose."}
+      ],
+      "4": [
+        {"v":4,"t":"Rejoice in the Lord always. I will say it again: Rejoice!"},
+        {"v":6,"t":"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."},
+        {"v":7,"t":"And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."},
+        {"v":8,"t":"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."},
+        {"v":13,"t":"I can do all this through him who gives me strength."},
+        {"v":19,"t":"And my God will meet all your needs according to the riches of his glory in Christ Jesus."}
+      ]
+    },
+    "Kejadian": {
+      "1": [
+        {"v":1,"t":"In the beginning God created the heavens and the earth."},
+        {"v":2,"t":"Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."},
+        {"v":3,"t":"And God said, \"Let there be light,\" and there was light."},
+        {"v":26,"t":"Then God said, \"Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.\""},
+        {"v":27,"t":"So God created mankind in his own image, in the image of God he created them; male and female he created them."},
+        {"v":31,"t":"God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."}
+      ]
+    }
+  }
+}

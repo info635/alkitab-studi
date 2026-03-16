@@ -10,6 +10,7 @@ const CACHE_URLS = [
   '/css/app.css',
   '/js/app.js',
   '/manifest.json',
+  '/data/bible/niv.json',
   '/data/bible/matius.json',
   '/data/bible/yohanes.json',
   '/data/bible/roma.json',
